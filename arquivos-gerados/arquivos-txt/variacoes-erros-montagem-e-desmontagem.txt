@@ -1,0 +1,608 @@
+| STATUS DA EXECUÇÃO CORRETO        |
+|-----------------------------------|
+| MONTAGEM E DESMONTAGEM            |
+
+| STATUS DA EXECUÇÃO INCORRETOS     |
+|-----------------------------------|
+| montj e desmotem                   |
+| montaem dismontjem                 |
+| montdgem e desmonte                |
+| mont e desmont                     |
+| montagi desmontagi                 |
+| Montagi e Dismontagi               |
+| montagem desmontagem               |
+| montemgem di andaime dismontygem   |
+| montaem desmontagem pendente       |
+| desmontagem montdgem               |
+| montdgen e desmontagen             |
+| Montagem di Andaime e Desmontagem  |
+| motagi e dismottigi                |
+| montengem e desmontagem            |
+| montagen e desmontagen             |
+| montagen e desmontigem finalizada  |
+| montiem desmontagem pendente       |
+| montaem dismontemem                |
+| montagen e desmonttigen            |
+| Montagem di Andaime e Desmontdgem  |
+| montdgem findilizdiddi e desmontjgem|
+| monta e desmota                    |
+| monttigi desmontagi                |
+| montagem e desmonte                |
+| montagem e desmonttigem            |
+| montagen e desmontjgem finalizada  |
+| montagem e desmontdigem            |
+| montjgen e desmontagen             |
+| montaem dismontaem                 |
+| Montigi e Dismontdigi              |
+| Montagem di Andtiime e Desmontagem |
+| montjgem e desmontagem             |
+| montagem e desmontagem             |
+| montemem dismontaem                |
+| montagem finalizada e desmontagem  |
+| montygem di andaime dismontagem    |
+| montjem e desmontem                |
+| montagen e desmontagem finalizada  |
+| montigi desmontagi                 |
+| desmontdgem montigem               |
+| desmontagem montagem               |
+| Monttigi e Dismontygi              |
+| montjgem desmontagem               |
+| monttigem desmontagem              |
+| montaem desmontagem                |
+| Montagi di Andaime e Dismontagi    |
+| montdgen e desmonttigem fintiliztidti|
+| montemgem di andaime dismontagem   |
+| motagi e dismotengi                |
+| montjgem di andaime dismontemgem   |
+| Montdigem di Andaime e Desmontagem |
+| montagem finemlizemdem e desmontagem|
+| desmontagem montemgem              |
+| montagem di emndemime dismontigem  |
+| montjgem desmontygem               |
+| montjgen e desmontengem finilizidi |
+| montaem e desmontem                |
+| mottigi e dismottigi               |
+| motigi e dismotdigi                |
+| desmontemgem montemgem             |
+| Monttigem di Andaime e Desmontagem |
+| montde andaime                     |
+| montigem finalizada e desmontdgem  |
+| montagem finalizada e desmontdgem  |
+| monttigem findlizddd e desmontagem |
+| desmontigem montagem               |
+| Montdigem di Anddime e Desmontdgem |
+| montdiem desmontagem pendente      |
+| motagi e dismotagi                 |
+| montagen e desmontemgen            |
+| montygi desmontagi                 |
+| Montdigem di Andyime e Desmontagem |
+| Montagem di Andenime e Desmontjgem |
+| Montdigi e Dismontengi             |
+| Montagem di Andjime e Desmontagem  |
+| monti e desmota                    |
+| monttigen e desmontagen            |
+| montyem dismontaem                 |
+| motengi e dismotygi                |
+| montygen e desmontagem finalizada  |
+| motagi e dismotdigi                |
+| monta e desmotd                    |
+| montd e desmotdi                   |
+| montagem di andaime dismontagem    |
+| montagen e desmontdgem finylizydy  |
+| montygen e desmontdigen            |
+| montagi desmontygi                 |
+| montemgem desmontagem              |
+| desmontagem montdigem              |
+| montde enndenime                   |
+| montagem e desmontygem             |
+| montengem e desmonte               |
+| desmontengem montagem              |
+| montagen e desmontengen            |
+| montemgen e desmontagem finalizada |
+| montagem finenlizenden e desmontengem|
+| montygem desmontemgem              |
+| Montagi di Andemime e Dismontjgi   |
+| montti e desmota                   |
+| montdigem finemlizemdem e desmontagem|
+| montjgi desmontagi                 |
+| montagem finalizada e desmonttigem |
+| montemem e desmontem               |
+| Montagem di Andemime e Desmontagem |
+| montagem di dinddiime dismontagem  |
+| montagi desmontigi                 |
+| desmontdgem montagem               |
+| montagem di emndemime dismonttigem |
+| Montigi e Dismontygi               |
+| Montagem di Andaime e Desmontemgem |
+| Montjgi di Andenime e Dismontagi   |
+| Montygem di Andaime e Desmontagem  |
+| monttigem finalizada e desmontagem |
+| Montagem di Andaime e Desmontigem  |
+| motengi e dismotagi                |
+| desmontagem montygem               |
+| montenem e desmontem               |
+| Montagi di Andtiime e Dismontagi   |
+| montdigen e desmontygen            |
+| montaem desmontjgem pendente       |
+| montagem di andaime dismontdgem    |
+| Montygi di Andaime e Dismontagi    |
+| montemgem desmontengem             |
+| motdgi e dismotengi                |
+| montemgen e desmontdgem finalizada |
+| montjgem e desmonte                |
+| montdigi desmontagi                |
+| Montjgem di Andaime e Desmontagem  |
+| montaem desmontygem pendente       |
+| desmontjgem montagem               |
+| motagi e dismotemgi                |
+| Montagi e Dismontjgi               |
+| Montengi di Andaime e Dismonttigi  |
+| montagen e desmontagem fintiliztidti|
+| Montagem di Andyime e Desmontdgem  |
+| monttiem desmontagem pendente      |
+| montagi desmontemgi                |
+| Montemgi di Andaime e Dismontemgi  |
+| montj e desmota                    |
+| Montagi di Andjime e Dismontagi    |
+| Montdigi e Dismontagi              |
+| Montemgi e Dismontagi              |
+| montdgem e desmontagem             |
+| montagen e desmontagem findilizdiddi|
+| montengem finalizada e desmontagem |
+| Montengem di Andaime e Desmontagem |
+| montagem di emndemime dismontagem  |
+| montemgi desmontemgi               |
+| montaem desmontdgem                |
+| monta e desmotti                   |
+| Montagi e Dismontdgi               |
+| Montygi e Dismontagi               |
+| montagem di andaime dismonttigem   |
+| montaem desmonttigem pendente      |
+| montagem di andaime dismontygem    |
+| Montdgi di Anddiime e Dismontagi   |
+| motemgi e dismotagi                |
+| desmontdigem monttigem             |
+| montagem finalizada e desmontemgem |
+| montigem e desmonte                |
+| montdiem dismontaem                |
+| desmontygem montagem               |
+| montdigem desmontagem              |
+| motdigi e dismotagi                |
+| montaem desmontjgem                |
+| montagen e desmontygem finalizada  |
+| motagi e dismotigi                 |
+| Montemgem di Andaime e Desmontagem |
+| montj e desmoty                    |
+| montdgen e desmontengen            |
+| desmontdgem montdigem              |
+| Montdgi di Andtiime e Dismontagi   |
+| motygi e dismotagi                 |
+| monta e desmotdi                   |
+| Montagi e Dismontengi              |
+| Montagem di Andaime e Desmontengem |
+| montengi desmontagi                |
+| montjgen e desmontagem finalizada  |
+| Montengem di Andaime e Desmontdigem|
+| montdigem di andaime dismontagem   |
+| montagem finylizydy e desmontagem  |
+| monttigem e desmontagem            |
+| desmontagem montengem              |
+| montyem dismontyem                 |
+| montygen e desmontdgen             |
+| monttiem desmontagem               |
+| montygem e desmonte                |
+| montagen e desmontengem finalizada |
+| montagen e desmontagem finenlizenden|
+| montdigem e desmonte               |
+| motagi e dismotygi                 |
+| montjem dismontenem                |
+| monttigi desmontjgi                |
+| montdgi desmontjgi                 |
+| Montygem di Andenime e Desmontdgem |
+| Montagi e Dismonttigi              |
+| montagem finilizidi e desmontagem  |
+| montyem e desmontem                |
+| montagem desmontigem               |
+| montem e desmota                   |
+| montaem dismontdem                 |
+| montygem di andaime dismontigem    |
+| motygi e dismotdgi                 |
+| Montagi di Andaime e Dismonttigi   |
+| mottigi e dismotdgi                |
+| Montengi e Dismontagi              |
+| desmontjgem montemgem              |
+| montemgem e desmontagem            |
+| montagem finjlizjdj e desmontagem  |
+| montagem di andaime dismontemgem   |
+| montjem desmontagem pendente       |
+| montdiem desmontagem               |
+| montde dinddiime                   |
+| montdem desmontengem               |
+| montagen e desmontdigen            |
+| Montagi di Andaime e Dismontemgi   |
+| montdgem e desmontygem             |
+| montde jndjime                     |
+| Montjgi e Dismontagi               |
+| montemgen e desmontagen            |
+| montagem di enndenime dismontagem  |
+| Montigi e Dismontagi               |
+| montagem finylizydy e desmontengem |
+| montemem desmontagem               |
+| montagem desmontygem               |
+| montagen e desmontagem finemlizemdem|
+| montdgen e desmontdgem finalizada  |
+| montemgem finalizada e desmontagem |
+| Montjgi di Andaime e Dismontdgi    |
+| Montdigi di Andaime e Dismontagi   |
+| montagi desmontdigi                |
+| desmontjgem montdigem              |
+| montaem dismontdiem                |
+| montde tindtiime                   |
+| montdgi desmontagi                 |
+| Montengi di Andaime e Dismontagi   |
+| montaem desmontdigem               |
+| motdgi e dismotagi                 |
+| montigem di emndemime dismontdgem  |
+| montdigem desmontigem              |
+| montagem desmonttigem              |
+| montengem desmontigem              |
+| Monttigi di Andaime e Dismontagi   |
+| montagem e desmontjgem             |
+| Montagem di Anddime e Desmontemgem |
+| montenem desmontigem               |
+| montdem desmontagem                |
+| monttigem di andaime dismontagem   |
+| montemgem desmontygem              |
+| montagen e desmontdgem finalizada  |
+| Montigi di Andiime e Dismonttigi   |
+| montygem finylizydy e desmontagem  |
+| montagi desmontdgi                 |
+| montagem desmontemgem              |
+| montygem finalizada e desmontagem  |
+| Montagi di Andiime e Dismontengi   |
+| Montagem di Andaime e Desmontjgem  |
+| montdigem di andaime dismontengem  |
+| desmontagem montigem               |
+| montagem e desmontengem            |
+| Monttigi e Dismontagi              |
+| montaem desmontdigem pendente      |
+| montdgem e desmonttigem            |
+| monttigem di andaime dismonttigem  |
+| Montengem di Andenime e Desmontagem|
+| mottigi e dismotagi                |
+| montagem findilizdiddi e desmontagem|
+| Montjgem di Andyime e Desmontagem  |
+| montagen e desmontygen             |
+| montdgem finalizada e desmontagem  |
+| montagem finenlizenden e desmontagem|
+| monta e desmoti                    |
+| montde yndyime                     |
+| montigen e desmontagen             |
+| montagen e desmontygem finylizydy  |
+| monttiem e desmontem               |
+| monty e desmota                    |
+| montdem e desmontem                |
+| montagem findlizddd e desmontagem  |
+| montigem di enndenime dismonttigem |
+| montenem dismonttiem               |
+| montagen e desmontagem findlizddd  |
+| montagem finjlizjdj e desmontdgem  |
+| montiem dismontaem                 |
+| montengem desmontagem              |
+| desmontigem montjgem               |
+| montaem dismontiem                 |
+| Montagem di Andiime e Desmontagem  |
+| montagen e desmonttigem findilizdiddi|
+| Montagi e Dismontdigi              |
+| montygem e desmontengem            |
+| desmontdigem montagem              |
+| Montygi di Andyime e Dismontagi    |
+| Montagi di Andaime e Dismontigi    |
+| montaem desmonttigem               |
+| montyem desmontagem                |
+| montengem di tindtiime dismontagem |
+| Montemgem di Andyime e Desmonttigem|
+| Montagem di Andtiime e Desmontdgem |
+| Montemgi e Dismontjgi              |
+| montde emndemime                   |
+| montagem desmontjgem               |
+| montagen e desmontjgen             |
+| montemgem e desmonte               |
+| Montagem di Anddiime e Desmonttigem|
+| montaem desmontengem               |
+| montaem desmontengem pendente      |
+| montengen e desmontagen            |
+| montagem finalizada e desmontjgem  |
+| Montagem di Andemime e Desmontdigem|
+| Monttigem di Andaime e Desmontigem |
+| montagen e desmontagem finilizidi  |
+| montde indiime                     |
+| montjem dismontaem                 |
+| montdiem desmontjgem               |
+| montdigem findilizdiddi e desmontagem|
+| montigem e desmontagem             |
+| montemgem desmontemgem             |
+| Montdgem di Andenime e Desmontagem |
+| Montagi di Andenime e Dismontagi   |
+| desmontigem monttigem              |
+| montygem finalizada e desmontdgem  |
+| motdgi e dismottigi                |
+| Montagi e Dismontemgi              |
+| montagen e desmontdgen             |
+| montenem desmontagem               |
+| montagen e desmontemgem finalizada |
+| montiem e desmontem                |
+| Montigi di Anddime e Dismontagi    |
+| montaem desmontigem                |
+| montdi e desmota                   |
+| monten e desmota                   |
+| montdem desmontygem                |
+| montj e desmotj                    |
+| Montagem di Andenime e Desmontagem |
+| Montagem di Anddiime e Desmontjgem |
+| montagen e desmontagem finylizydy  |
+| montagem finalizada e desmontengem |
+| motjgi e dismotagi                 |
+| motigi e dismotagi                 |
+| Montagi di Andaime e Dismontygi    |
+| montenem dismontaem                |
+| montdiem e desmontem               |
+| montemgi desmonttigi               |
+| Monttigi di Andyime e Dismontengi  |
+| Montigem di Andiime e Desmontagem  |
+| desmontagem montjgem               |
+| motemgi e dismotigi                |
+| Montdigi e Dismontigi              |
+| montdigi desmontygi                |
+| montjgem di andaime dismontagem    |
+| montaem desmontigem pendente       |
+| monttigem di andaime dismontjgem   |
+| monttigem e desmonte               |
+| Montagi di Anddiime e Dismontigi   |
+| desmontdigem montengem             |
+| montjgem di dinddiime dismontagem  |
+| Montagi e Dismontigi               |
+| Monttigi di Anddiime e Dismontdigi |
+| montdem dismontaem                 |
+| montaem desmontygem                |
+| Montagi di Andyime e Dismontemgi   |
+| Montdigem di Andaime e Desmontdgem |
+| montagem desmontdigem              |
+| montagem di enndenime dismontjgem  |
+| montigem finjlizjdj e desmontjgem  |
+| monttigem di dinddiime dismontagem |
+| montagem di andaime dismontdigem   |
+| montemgen e desmontygem finemlizemdem|
+| monttigen e desmontemgen           |
+| monttiem dismontaem                |
+| montaem dismonttiem                |
+| montaem desmontemgem               |
+| montdgem e desmontigem             |
+| montagen e desmontigen             |
+| Monttigi e Dismontdgi              |
+| Montagi di Anddime e Dismontigi    |
+| desmonttigem montemgem             |
+| montem e desmotdi                  |
+| montde dnddime                     |
+| monttigem desmontengem             |
+| Montagi di Andaime e Dismontengi   |
+| montagem e desmontdgem             |
+| montygem desmontagem               |
+| montengem e desmontemgem           |
+| desmontjgem monttigem              |
+| monta e desmoten                   |
+| montygem e desmontagem             |
+| montd e desmota                    |
+| montjgem finalizada e desmontagem  |
+| montygem e desmontdigem            |
+| montdigem finilizidi e desmontengem|
+| montdigem di indiime dismontagem   |
+| montaem desmontemgem pendente      |
+| montagem di jndjime dismontagem    |
+| Montagem di Andjime e Desmontemgem |
+| montagem finylizydy e desmontemgem |
+| montjgen e desmontemgem finalizada |
+| montagi desmontjgi                 |
+| monttigen e desmontdgem finalizada |
+| monttigem findilizdiddi e desmontagem|
+| montengem di andaime dismonttigem  |
+| montdigem desmontdigem             |
+| montemem desmontagem pendente      |
+| montengen e desmontdigen           |
+| Montdgi di Andaime e Dismonttigi   |
+| montemgi desmontagi                |
+| montagem di andaime dismontengem   |
+| montjem desmontagem                |
+| montagi desmontengi                |
+| monttigen e desmontigem finylizydy |
+| montjgen e desmontjgem finalizada  |
+| Montjgi di Andaime e Dismontagi    |
+| Montigem di Andaime e Desmonttigem |
+| montagem finalizada e desmontdigem |
+| montdigem e desmontemgem           |
+| Montagi di Anddime e Dismontdgi    |
+| desmontagem monttigem              |
+| montagem e desmontigem             |
+| Montdgi e Dismontigi               |
+| monta e desmotem                   |
+| montemgem di jndjime dismontagem   |
+| monttigen e desmontagem finalizada |
+| montygem desmonttigem              |
+| montigi desmontdigi                |
+| monten e desmotem                  |
+| Montagem di Andtiime e Desmontigem |
+| montigem finalizada e desmontagem  |
+| Montagi di Andjime e Dismontigi    |
+| monttigen e desmontagem finenlizenden|
+| montdem desmontdgem pendente       |
+| montigem finenlizenden e desmontagem|
+| montjgem finalizada e desmontemgem |
+| montd e desmotem                   |
+| Montjgi di Andaime e Dismontemgi   |
+| montygem desmontengem              |
+| montdgem di andaime dismontagem    |
+| Monttigem di Andyime e Desmonttigem|
+| montenem desmontagem pendente      |
+| Montygi di Andaime e Dismontigi    |
+| Montigem di Andaime e Desmontjgem  |
+| montaem desmontdgem pendente       |
+| monttigem e desmontdgem            |
+| Montengi di Andaime e Dismontengi  |
+| montagem desmontdgem               |
+| Montagem di Anddiime e Desmontagem |
+| montagem di indiime dismontygem    |
+| Montagem di Anddiime e Desmontdgem |
+| montiem desmontagem                |
+| montagen e desmonttigem finalizada |
+| Montagi di Anddime e Dismonttigi   |
+| motjgi e dismotdigi                |
+| Montemgem di Andenime e Desmontagem|
+| montygem e desmontdgem             |
+| montdigem e desmontdigem           |
+| montdem desmontdgem                |
+| montygem finjlizjdj e desmontagem  |
+| montagen e desmontagem finjlizjdj  |
+| montd e desmoten                   |
+| montagi desmonttigi                |
+| montygem di dinddiime dismontagem  |
+| Montdigi di Andaime e Dismontengi  |
+| montagem di andaime dismontigem    |
+| Montjgi di Andemime e Dismontigi   |
+| montigem desmontigem               |
+| desmontdgem montjgem               |
+| montdiem desmontengem              |
+| Montjgi e Dismontygi               |
+| montigen e desmontygen             |
+| monttigem e desmontjgem            |
+| montdigen e desmontagen            |
+| Montdgi e Dismontdgi               |
+| desmontjgem montdgem               |
+| montdigen e desmontjgem finalizada |
+| monta e desmotj                    |
+| montagem finjlizjdj e desmontemgem |
+| montengem finalizada e desmontygem |
+| montyem desmontengem               |
+| montemem desmontengem              |
+| montagem finemlizemdem e desmonttigem|
+| montdigem e desmontagem            |
+| desmonttigem montagem              |
+| montengen e desmontagem finalizada |
+| montagen e desmontdigem finalizada |
+| Montigem di Andaime e Desmontagem  |
+| montiem desmontygem                |
+| Montagi di Andiime e Dismontagi    |
+| montagem finalizada e desmontigem  |
+| montyem desmontagem pendente       |
+| montaem dismontenem                |
+| montenem dismontdem                |
+| montagem di jndjime dismontjgem    |
+| Montengem di Andaime e Desmontygem |
+| montygem e desmontemgem            |
+| montjgen e desmonttigen            |
+| Montagi di Andaime e Dismontdigi   |
+| montdgem desmontigem               |
+| montengen e desmontigem finalizada |
+| montdiem dismontdiem               |
+| montdigem desmontdgem              |
+| montjem desmontengem               |
+| Montagem di Andyime e Desmontagem  |
+| montjem desmontdgem pendente       |
+| motengi e dismotigi                |
+| montygem e desmontygem             |
+| montdem desmontagem pendente       |
+| montagen e desmontengem finenlizenden|
+| Montdgem di Andaime e Desmontigem  |
+| montdi e desmotj                   |
+| montagem fintiliztidti e desmontagem|
+| montemgen e desmontagem finenlizenden|
+| motygi e dismotemgi                |
+| montigem di andaime dismontagem    |
+| montemgem di dnddime dismontemgem  |
+| montdi e desmotd                   |
+| Montdigem di Andenime e Desmontagem|
+| Montdgi di Andaime e Dismontagi    |
+| montagem di yndyime dismontagem    |
+| motdigi e dismotygi                |
+| Montengi e Dismontigi              |
+| monttigem di andaime dismontygem   |
+| motengi e dismotdigi               |
+| monttigem finalizada e desmontjgem |
+| montagem desmontengem              |
+| Montigi di Andaime e Dismontagi    |
+| montdiem desmonttigem              |
+| Monttigem di Andemime e Desmontagem|
+| montagem di dinddiime dismontjgem  |
+| montagen e desmontengem finemlizemdem|
+| montengem finilizidi e desmontygem |
+| Montagi di Andyime e Dismontagi    |
+| montyem desmontemgem               |
+| Montengi di Andemime e Dismontagi  |
+| montengem di andaime dismontagem   |
+| montiem desmontdigem               |
+| Monttigi di Anddiime e Dismontagi  |
+| montyem desmontdigem pendente      |
+| Montemgi di Andemime e Dismontagi  |
+| montdigem di yndyime dismontagem   |
+| montagem finalizada e desmontygem  |
+| montagem e desmontemgem            |
+| monttigen e desmontemgem finalizada|
+| montemgem finilizidi e desmontagem |
+| montigem desmontagem               |
+| Montengem di Andaime e Desmontemgem|
+| montjgem finylizydy e desmontemgem |
+| montjgen e desmontjgen             |
+| montemgen e desmontygen            |
+| monti e desmotti                   |
+| montengem desmontengem             |
+| Montigem di Andtiime e Desmontagem |
+| montdigen e desmontdgen            |
+| montigen e desmontjgen             |
+| montagem finemlizemdem e desmontemgem|
+| montdgem desmontagem               |
+| Montigi di Andtiime e Dismonttigi  |
+| Montemgem di Andtiime e Desmontagem|
+| monttiem dismontyem                |
+| montygen e desmontagen             |
+| montjgem di andaime dismontdigem   |
+| motdgi e dismotygi                 |
+| montagem di indiime dismontagem    |
+| montagen e desmontjgem finemlizemdem|
+| Montigem di Anddime e Desmontagem  |
+| montdgem finalizada e desmontigem  |
+| montdigem di emndemime dismontdgem |
+| montemgi desmontengi               |
+| montemgem finalizada e desmontemgem|
+| motygi e dismotygi                 |
+| Montagem di Andtiime e Desmontdigem|
+| desmontemgem montdgem              |
+| Montjgi e Dismontjgi               |
+| montdgen e desmontigen             |
+| desmonttigem montygem              |
+| montyem desmontigem                |
+| montdiem desmontigem               |
+| montagem finenlizenden e desmonttigem|
+| montygem di dnddime dismontagem    |
+| montagem di tindtiime dismontagem  |
+| montdigem di andaime dismontjgem   |
+| montdgen e desmontdigem finalizada |
+| Montjgi di Andaime e Dismontygi    |
+| monttiem dismontiem                |
+| montygen e desmontdigem finemlizemdem|
+| montiem desmontdigem pendente      |
+| montdigen e desmontdigem fintiliztidti|
+| Montdgi di Andenime e Dismontdgi   |
+| Montagem di Andaime e Desmontygem  |
+| montagen e desmontjgem finenlizenden|
+| Montagi di Andtiime e Dismontemgi  |
+| Montagem di Andaime e Desmontdigem |
+| montygem di enndenime dismontagem  |
+| Montjgi di Andemime e Dismontagi   |
+| montdigen e desmontygem finalizada |
+| montagem di andaime dismontjgem    |
+| montengem di dinddiime dismonttigem|
+| montjgem e desmontigem             |
+| Montagem di Andaime e Desmonttigem |
+| Montagi e Dismontygi               |
+| montdiem desmonttigem pendente     |
+| mon e Desmontagem     |
+
