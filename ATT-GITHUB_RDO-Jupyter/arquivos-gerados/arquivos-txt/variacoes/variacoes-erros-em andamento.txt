@@ -1,0 +1,155 @@
+| STATUS DA EXECUÇÃO CORRETO        |
+|-----------------------------------|
+| MONTAGEM EM ANDAMENTO             |
+| DESMONTAGEM EM ANDAMENTO          |
+| MONTAGEM E DESMONTAGEM EM ANDAMENTO|
+
+| STATUS DA EXECUÇÃO INCORRETOS         |
+|---------------------------------------|
+| Montado 5%                            |
+| Montado 10%                           |
+| Montado 15%                           |
+| Montado 20%                           |
+| Montado 25%                           |
+| Montado 30%                           |
+| Montado 35%                           |
+| Montado 40%                           |
+| Montado 45%                           |
+| Montado 50%                           |
+| Montado 55%                           |
+| Montado 60%                           |
+| Montado 65%                           |
+| Montado 70%                           |
+| Montado 75%                           |
+| Montado 80%                           |
+| Montado 85%                           |
+| Montado 90%                           |
+| Montado 95%                           |
+| Montado 100%                          |
+| Desmontado 5%                         |
+| Desmontado 10%                        |
+| Desmontado 15%                        |
+| Desmontado 20%                        |
+| Desmontado 25%                        |
+| Desmontado 30%                        |
+| Desmontado 35%                        |
+| Desmontado 40%                        |
+| Desmontado 45%                        |
+| Desmontado 50%                        |
+| Desmontado 55%                        |
+| Desmontado 60%                        |
+| Desmontado 65%                        |
+| Desmontado 70%                        |
+| Desmontado 75%                        |
+| Desmontado 80%                        |
+| Desmontado 85%                        |
+| Desmontado 90%                        |
+| Desmontado 95%                        |
+| Desmontado 100%                       |
+| Andaime iniciado 5%                   |
+| Andaime iniciado 10%                  |
+| Andaime iniciado 15%                  |
+| Andaime iniciado 20%                  |
+| Andaime iniciado 25%                  |
+| Andaime iniciado 30%                  |
+| Andaime iniciado 35%                  |
+| Andaime iniciado 40%                  |
+| Andaime iniciado 45%                  |
+| Andaime iniciado 50%                  |
+| Andaime iniciado 55%                  |
+| Andaime iniciado 60%                  |
+| Andaime iniciado 65%                  |
+| Andaime iniciado 70%                  |
+| Andaime iniciado 75%                  |
+| Andaime iniciado 80%                  |
+| Andaime iniciado 85%                  |
+| Andaime iniciado 90%                  |
+| Andaime iniciado 95%                  |
+| Andaime iniciado 100%                 |
+| Andaime desmontado 5%                 |
+| Andaime desmontado 10%                |
+| Andaime desmontado 15%                |
+| Andaime desmontado 20%                |
+| Andaime desmontado 25%                |
+| Andaime desmontado 30%                |
+| Andaime desmontado 35%                |
+| Andaime desmontado 40%                |
+| Andaime desmontado 45%                |
+| Andaime desmontado 50%                |
+| Andaime desmontado 55%                |
+| Andaime desmontado 60%                |
+| Andaime desmontado 65%                |
+| Andaime desmontado 70%                |
+| Andaime desmontado 75%                |
+| Andaime desmontado 80%                |
+| Andaime desmontado 85%                |
+| Andaime desmontado 90%                |
+| Andaime desmontado 95%                |
+| Andaime desmontado 100%               |
+| Andaime parcialmente montado          |
+| Andaime parcialmente desmontado       |
+| Andaime 50% concluído                 |
+| Andaime com 20% montado               |
+| Andaime com 30% desmontado            |
+| Andaime em progresso 70%              |
+| Andaime 95% pronto                    |
+| Andaime 15% finalizado                |
+| Andaime montado parcialmente          |
+| Andaime desmontado parcialmente       |
+| Andaime finalizado em 80%             |
+| Andaime concluído em 25%              |
+| Andaime iniciado hoje 10%             |
+| Andaime iniciado ontem 15%            |
+| Andaime em análise 45%                |
+| Andaime em andamento 50%              |
+| Andaime com progresso de 30%          |
+| Andaime montado e em uso 70%          |
+| Andaime desmontado hoje 20%           |
+| Andaime desmontado ontem 25%          |
+| Andaime com status de 90%             |
+| Andaime pronto 100%                   |
+| Andaime iniciado hoje                 |
+| Andaime iniciado ontem                |
+| Andaime acaba amanhã                  |
+| Andaime será montado amanhã           |
+| Andaime desmontado será finalizado    |
+| Andaime em conclusão 95%              |
+| Andaime 40% em progresso              |
+| Andaime parcialmente finalizado       |
+| Andaime quase pronto 85%              |
+| Andaime iniciado e pronto 10%         |
+| Andaime desmontado em 70%             |
+| Andaime montado em 100%               |
+| Andaime desmontado por 50%            |
+| Andaime 20% restando                  |
+| Andaime montado com atraso            |
+| Andaime desmontado com atraso         |
+| Andaime iniciou desmontagem 30%       |
+| Andaime iniciou montagem 60%          |
+| Andaime será concluído amanhã         |
+| Andaime iniciado com problemas        |
+| Andaime parcialmente ativo            |
+| Andaime será desmontado amanhã        |
+| Andaime finaliza amanhã 100%          |
+| Andaime 75% estável                   |
+| Andaime iniciado com erro             |
+| Andaime 85% está funcionando          |
+| Andaime em operação 50%               |
+| Andaime em pausa 20%                  |
+| Andaime reiniciará amanhã             |
+| Andaime em estado crítico 15%         |
+| Andaime parado 10%                    |
+| Andaime montado temporariamente       |
+| Andaime desmontado temporariamente    |
+| Andaime pronto e finalizado 100%      |
+| Andaime em revisão 35%                |
+| Andaime quase completo 95%            |
+| Andaime desmontagem prevista amanhã   |
+| Andaime montado parcialmente 80%      |
+| Andaime desmontagem em 60%            |
+| Andaime 40% montado e analisado       |
+| Andaime 55% pronto para uso           |
+| Andaime 70% parcialmente funcional    |
+| Andaime desmontado incompleto         |
+| Andaime será removido amanhã          |
+| Andaime pronto para desmonte amanhã   |
